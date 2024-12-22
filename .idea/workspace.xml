@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7170ea72-1969-4127-a393-5cee6bdaa3bd" name="Changes" comment="new file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_changer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.py" beforeDir="false" afterPath="$PROJECT_DIR$/final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/greetings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +98,7 @@
       <updated>1734378580379</updated>
       <workItem from="1734378581446" duration="2334000" />
       <workItem from="1734383491262" duration="17000" />
-      <workItem from="1734851517561" duration="16556000" />
+      <workItem from="1734851517561" duration="18698000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <option name="closed" value="true" />
@@ -112,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734883538487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new file">
+      <option name="closed" value="true" />
+      <created>1734883876925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734883876925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +182,7 @@
     <SUITE FILE_PATH="coverage/note_manager$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1734878061910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/note_manager$add_input.coverage" NAME="add_input Coverage Results" MODIFIED="1734875724453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/note_manager$date_changer.coverage" NAME="date_changer Coverage Results" MODIFIED="1734853877352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/note_manager$final.coverage" NAME="final Coverage Results" MODIFIED="1734883083504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/note_manager$final.coverage" NAME="final Coverage Results" MODIFIED="1734884900641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/note_manager$Test.coverage" NAME="Test Coverage Results" MODIFIED="1734874134806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

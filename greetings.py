@@ -3,7 +3,7 @@ import date_changer
 import add_list
 
 
-def new_title():
+def warp():
     username = 'username'
     title = 'title'
     content = 'content'
@@ -16,6 +16,11 @@ def new_title():
     print('Статус:', status)
     print('Дата создания:', created_date)
     print('Дедлайн:', issue_date)
+    print('Краткая дата создания:', date_changer.short_date(created_date))
+    print('Краткая дата дедлайна:', date_changer.short_date(issue_date))
+
+
+def new_title():
     username, title, content, status, created_date, issue_date = add_input.add_title(created_date)
     title = add_list.add_headers()
     print('Имя пользователя:', username)
@@ -24,6 +29,6 @@ def new_title():
     print('Статус:', status)
     print('Дата создания:', created_date)
     print('Дедлайн:', issue_date)
-    date_changer.short_date_print(created_date)
-    date_changer.short_date_print(issue_date)
+    print(date_changer.short_date(created_date))
+    print(date_changer.short_date(issue_date))
     return username, title, content, status, created_date, issue_date

@@ -1,2 +1,2 @@
-def short_date_print(date):
-    print(date[:5])
+def short_date(date):
+    return date[:5]
