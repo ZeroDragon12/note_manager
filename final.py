@@ -1,8 +1,11 @@
 import greetings
+
+
 def dictionary_print(dictionary):
     keys = dictionary.keys()
     for key in keys:
-        print(key,':', dictionary[key])
+        print(key, ':', dictionary[key])
+
 
 note = greetings.new_title()
 title = {
