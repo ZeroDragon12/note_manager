@@ -1,2 +1,5 @@
 
 /.idea
+.gitignore
+Test.py
+main.py
