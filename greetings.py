@@ -21,7 +21,7 @@ def warp():
 
 
 def new_title():
-    username, title, content, status, created_date, issue_date = add_input.add_title(created_date)
+    username, title, content, status, created_date, issue_date = add_input.add_title('31-12-2024')
     title = add_list.add_headers()
     print('Имя пользователя:', username)
     print('Заголовки:', title)
